@@ -37,3 +37,11 @@ body{
 {
     font-size:20px;
 }
+
+#fooder
+{
+    background: lightyellow;
+    color: rgb(179, 245, 196);
+    text-align: center;
+    padding: 0.5em;
+}
